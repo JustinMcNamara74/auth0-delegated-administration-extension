@@ -1,8 +1,8 @@
 {
   "title": "Auth0 Roles Management",
   "name": "auth0-roles-management",
-  "version": "3.0.0",
-  "author": "auth0",
+  "version": "1.0.0",
+  "author": "Bob Vance, Vance Refrigeration",
   "useHashName": false,
   "description": "This extension allows non-dashboard administrators to manage (a subset of) users.",
   "type": "application",
